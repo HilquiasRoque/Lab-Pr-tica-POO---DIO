@@ -1,0 +1,14 @@
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\bin\Debug\netcoreapp3.1\PraticaPOO-RPG.exe
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\bin\Debug\netcoreapp3.1\PraticaPOO-RPG.deps.json
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\bin\Debug\netcoreapp3.1\PraticaPOO-RPG.runtimeconfig.json
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\bin\Debug\netcoreapp3.1\PraticaPOO-RPG.runtimeconfig.dev.json
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\bin\Debug\netcoreapp3.1\PraticaPOO-RPG.dll
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\bin\Debug\netcoreapp3.1\PraticaPOO-RPG.pdb
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.csproj.AssemblyReference.cache
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.AssemblyInfoInputs.cache
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.AssemblyInfo.cs
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.csproj.CoreCompileInputs.cache
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.dll
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.pdb
+C:\workspace\Lab abstração POO\PraticaPOO-RPG\PraticaPOO-RPG\obj\Debug\netcoreapp3.1\PraticaPOO-RPG.genruntimeconfig.cache
